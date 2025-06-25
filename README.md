@@ -140,8 +140,9 @@ trader-sentiment-analysis/
 For questions, feedback, or collaborations:
 
 **Author**: \[Ayaan Shaheer]
-**Email**: \[[your.email@example.com](mailto:gfever252@gmail.com)]
-**GitHub**: [github.com/your-username](https://github.com/AyaanShaheer)
+**Email**: [MailID](gfever252@gmail.com)
+**GitHub**: [AyaanShaheer](https://github.com/AyaanShaheer)
+**Portfolio**: [Portfolio Website](https://chatprofolio.vercel.app/profile/ayaanshaheer)
 
 ---
 
