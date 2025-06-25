@@ -53,15 +53,22 @@ We aim to:
 
 ##Screenshots :
 
-![Screenshot 2025-06-25 095646](https://github.com/user-attachments/assets/3b3bf107-2769-462c-8833-65c775f266e2)
+### 📦 PnL Distribution by Market Sentiment
+![PnL Boxplot](screenshots/pnl_boxplot.png)
 
-![Screenshot 2025-06-25 100138](https://github.com/user-attachments/assets/e583cc86-87b7-450c-bc78-04fb4c53cc75)
+### 📊 Total Trade Volume by Sentiment
+![Trade Volume](screenshots/trade_volume.png)
 
-![Screenshot 2025-06-25 100201](https://github.com/user-attachments/assets/3bdf9e18-3e17-41d8-a5d4-334ef64d9129)
+### 📈 Sentiment Index vs Closed PnL
+![Sentiment vs PnL](screenshots/sentiment_vs_pnl.png)
 
-![Screenshot 2025-06-25 100213](https://github.com/user-attachments/assets/e7feb18f-8837-4c5d-bd13-62fb6f11fa80)
+### 📉 Daily Total PnL vs Sentiment Index
+![Time Series](screenshots/daily_pnl_sentiment.png)
 
-![Screenshot 2025-06-25 100225](https://github.com/user-attachments/assets/0b4fbdca-f94e-43db-bfc0-c36d6c20bb3d)
+### 👤 KMeans Trader Clusters
+![Trader Clusters](screenshots/trader_clusters.png)
+
+
 
 
 ## ⚙️ How to Run
