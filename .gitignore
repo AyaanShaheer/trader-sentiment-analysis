@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Jupyter and VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Python cache
+*.pyo
+*.pyd
+*.pdb
+
+# Environment variables or secrets
+.env
